@@ -669,6 +669,10 @@ p.info-do-card {
   border-bottom: 2px solid #c5e8ff;
 }
 
+.inv, .invtit1, .invtit2, .invtit3, .invtit4, .invp2-1, .invp2-2, .invp2-3, .invp2-4, .invp3-1, .invp3-2, .invp3-3, .invp3-4{
+  visibility: hidden;
+}
+
 /* Responsividade */
 
 @media (max-width: 1570px) {
