@@ -9,6 +9,8 @@
 body {
   background: linear-gradient(135deg, #1b0034, #2a0979);
   overflow-x: hidden;
+  appearance: none;
+  -webkit-appearance: none;
 }
 
 section {
