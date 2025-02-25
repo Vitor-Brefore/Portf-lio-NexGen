@@ -13,7 +13,7 @@ body {
 
 section {
   height: 100dvh;
-  width: 100vw;
+  width: 100dvw;
 }
 
 .inicial-icons {
@@ -74,7 +74,7 @@ header {
 }
 
 .T1 {
-  width: 100vw;
+  width: 100dvw;
   height: 100dvh;
   display: flex;
   flex-direction: column;
@@ -108,7 +108,7 @@ header {
 .info {
   color: #c5e8ff;
   font-family: "Fira Code", serif;
-  max-width: 50vw;
+  max-width: 50dvw;
   font-size: 16px;
   font-weight: 500;
 }
@@ -150,7 +150,7 @@ header {
 /* fotos
  */
 .p2 {
-  width: 100vw;
+  width: 100dvw;
   min-height: 100dvh;
   height: auto;
   display: flex;
@@ -159,7 +159,7 @@ header {
 }
 
 .container-perfil {
-  width: 90vw;
+  width: 90dvw;
   height: 80dvh;
   border-radius: 50px;
   background: linear-gradient(135deg, #c5e8ff, #b3d8ff);
@@ -410,7 +410,7 @@ span.legenda {
   align-items: center;
   justify-content: center;
   min-height: 100dvh;
-  width: 100vw;
+  width: 100dvw;
   background-color: black;
   position: fixed;
   z-index: 9999;
@@ -624,7 +624,7 @@ p.info-do-card {
 }
 
 #socials {
-  width: 100vw;
+  width: 100dvw;
   height: 20dvh;
   background-color: #12002e;
   display: flex;
