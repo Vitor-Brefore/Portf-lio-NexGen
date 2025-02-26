@@ -416,6 +416,7 @@ span.legenda {
   background-color: black;
   position: fixed;
   z-index: 9999;
+  transition: 1s ease-in;
 }
 
 .loader {
